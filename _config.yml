@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+title: Perciplex
+description: Technical Consulting
+
+logo: logo.png
+show_downloads: false
+google_analytics: UA-8862815-4
