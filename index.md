@@ -30,7 +30,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Who are we?
 
-<img src="max_circle.png" alt="max" width="100px" height="100px">
+<img src="max_circle.png" alt="Max" width="120px" height="120px">
+<img src="declan_circle.png" alt="Declan" width="120px" height="120px">
+<img src="ben_circle.png" alt="Bax" width="120px" height="120px">
+<img src="phil_circle.png" alt="Pax" width="120px" height="120px">
 
 ### Support or Contact
 
