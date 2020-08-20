@@ -21,8 +21,9 @@ env.close()
 ```
 
 ### Who are you?
- |<img src="max_circle.png" alt="Max" width="120px" height="120px"></img>|<img src="declan_circle.png" alt="Declan" width="120px" height="120px"></img>|<img src="ben_circle.png" alt="Bax" width="120px" height="120px"></img>|<img src="phil_circle.png" alt="Pax" width="120px" height="120px"></img>|
- |test|test|test|test|
+<img src="max_circle.png" alt="Max" width="120px" height="120px"></img>|<img src="declan_circle.png" alt="Declan" width="120px" height="120px"></img>|<img src="ben_circle.png" alt="Bax" width="120px" height="120px"></img>|<img src="phil_circle.png" alt="Pax" width="120px" height="120px"></img>
+--|--|--|--
+Maximilian King|Declan Oller|Ben Wiener|Philip Zucker
 
 
 ### Support or Contact
