@@ -21,23 +21,9 @@ env.close()
 ```
 
 ### Who are you?
-<div float="left">
- <img src="max_circle.png" alt="Max" width="120px" height="120px"></img>
- <img src="declan_circle.png" alt="Declan" width="120px" height="120px"></img>
- <img src="ben_circle.png" alt="Bax" width="120px" height="120px"></img>
- <img src="phil_circle.png" alt="Pax" width="120px" height="120px"></img>
-</div>
+ |<img src="max_circle.png" alt="Max" width="120px" height="120px"></img>|<img src="declan_circle.png" alt="Declan" width="120px" height="120px"></img>|<img src="ben_circle.png" alt="Bax" width="120px" height="120px"></img>|<img src="phil_circle.png" alt="Pax" width="120px" height="120px"></img>|
+ |test|test|test|test|
 
-
- <figure style="float:left;">
-    <img src="max_circle.png" height="120" width="120">
-    <figcaption>Your label goes here</figcaption>
-</figure>
-
- <figure style="float:left;">
-    <img src="max_circle.png" height="120" width="120">
-    <figcaption>Your label goes here</figcaption>
-</figure>
 
 ### Support or Contact
 Send us an email at [team@perciplex.com](mailto:team@perciplex.com)
