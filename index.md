@@ -29,12 +29,12 @@ env.close()
 </div>
 
 
- <figure>
+ <figure float="left">
     <img src="max_circle.png" height="120" width="120">
     <figcaption>Your label goes here</figcaption>
 </figure>
 
- <figure>
+ <figure float="left">
     <img src="max_circle.png" height="120" width="120">
     <figcaption>Your label goes here</figcaption>
 </figure>
