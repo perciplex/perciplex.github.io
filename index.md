@@ -1,6 +1,4 @@
-# Perciplex
-
-## What is Perciplex?
+# What is Perciplex?
 We're a group of technical consultants and makers of [Reality as a Service](https://raas.perciplex.com). 
 
 ## What is Reality as a Service?
