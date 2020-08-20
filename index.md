@@ -22,17 +22,10 @@ env.close()
 
 ### Who are you?
 <div float="left">
- <div align="center">
-  <img src="max_circle.png" alt="Max" width="120px" height="120px"></img>
-  Maximilian King
-</div>
- <div align="center">
-  <img src="max_circle.png" alt="Max" width="120px" height="120px"></img>
-  Maximilian King
-</div>
-<img src="declan_circle.png" alt="Declan" width="120px" height="120px">
-<img src="ben_circle.png" alt="Bax" width="120px" height="120px">
-<img src="phil_circle.png" alt="Pax" width="120px" height="120px">
+ <img src="max_circle.png" alt="Max" width="120px" height="120px"></img>
+ <img src="declan_circle.png" alt="Declan" width="120px" height="120px"></img>
+ <img src="ben_circle.png" alt="Bax" width="120px" height="120px"></img>
+ <img src="phil_circle.png" alt="Pax" width="120px" height="120px"></img>
 </div>
 
 ### Support or Contact
