@@ -4,7 +4,7 @@ We're a group of technical consultants and makers of [Reality as a Service](http
 
 ### What is Reality as a Service?
 
-Reality as a Service or RaaS is a platform we built for trying code written for OpenAI Gym envoirnments on real robots. We built a fleet of pendulum robots that anyone can run your controller on.
+Reality as a Service or RaaS is a platform we built for testing OpenAI Gym controllers on real robots. We built a fleet of pendulum robots that you can run your controller on for free. Head over to [raas.perciplex.com](https://raas.perciplex.com) to try it out. Check out the docs at [here](https://perciplex.github.io/raas/).
 
 ```python
 import gym
@@ -21,10 +21,21 @@ env.close()
 ```
 
 ### Who are you?
-<img src="max_circle.png" alt="Max" width="120px" height="120px">|<img src="declan_circle.png" alt="Declan" width="120px" height="120px">|<img src="ben_circle.png" alt="Bax" width="120px" height="120px">|<img src="phil_circle.png" alt="Pax" width="120px" height="120px">
---|--|--|--
-Maximilian King|Declan Oller|Ben Wiener|Philip Zucker
+<table>
+ <tr>
+  <td><img src="max_circle.png" alt="Max" width="120px" height="120px"></td>
+  <td><img src="declan_circle.png" alt="Declan" width="120px" height="120px"></td>
+  <td><img src="ben_circle.png" alt="Bax" width="120px" height="120px"></td>
+  <td><img src="phil_circle.png" alt="Pax" width="120px" height="120px"></td>
+ </tr>
+ <tr>
+  <td>Maximilian King</td>
+  <td>Declan Oller</td>
+  <td>Ben Wiener</td>
+  <td>Philip Zucker</td>
+ </tr>
+</table>
 
 
 ### Support or Contact
-Send us an email at [team@perciplex.com](mailto:team@perciplex.com)
+Feel free to send us an email at [team@perciplex.com](mailto:team@perciplex.com).
