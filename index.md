@@ -30,7 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Who are we?
 
-![Max](max_circle.png =100x100)
+![Max](max_circle.png | width=100)
 
 ### Support or Contact
 
