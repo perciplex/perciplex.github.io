@@ -41,5 +41,5 @@ Head over to [raas.perciplex.com](https://raas.perciplex.com) to access _reality
 ## What does the name _Perciplex_ mean?
 It's a reference to a short story called _Fader's Waft_ by Jack Vance. The Perciplex is a McGuffin chased by a group of selfish and mediocre wizards.
 
-## How to I contact you?
+## How do I contact you?
 Feel free to send us an email at [team@perciplex.com](mailto:team@perciplex.com).
