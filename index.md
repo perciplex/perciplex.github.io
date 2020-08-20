@@ -26,11 +26,18 @@ env.close()
  <img src="declan_circle.png" alt="Declan" width="120px" height="120px"></img>
  <img src="ben_circle.png" alt="Bax" width="120px" height="120px"></img>
  <img src="phil_circle.png" alt="Pax" width="120px" height="120px"></img>
+</div>
+
+
  <figure>
     <img src="max_circle.png" height="120" width="120">
     <figcaption>Your label goes here</figcaption>
 </figure>
-</div>
+
+ <figure>
+    <img src="max_circle.png" height="120" width="120">
+    <figcaption>Your label goes here</figcaption>
+</figure>
 
 ### Support or Contact
 Send us an email at [team@perciplex.com](mailto:team@perciplex.com)
