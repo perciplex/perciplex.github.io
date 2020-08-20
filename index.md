@@ -1,9 +1,9 @@
-# What is Perciplex?
+# Perciplex
 
+## What is Perciplex?
 We're a group of technical consultants and makers of [Reality as a Service](https://raas.perciplex.com). 
 
 ## What is Reality as a Service?
-
 **Reality as a Service** or **RaaS** is a platform we built for testing OpenAI Gym controllers on real robots. We built a fleet of pendulum robots that you can run your controller on for free. 
 
 If you already have a `Pendulum-v0` controller, it's this easy to try RaaS:
