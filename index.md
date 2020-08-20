@@ -18,7 +18,7 @@ for _ in range(1000):
 
 env.close()
 ```
-Head over to [raas.perciplex.com](https://raas.perciplex.com) to access _reality_. Check out the docs at [here](https://perciplex.github.io/raas/).
+Head over to [raas.perciplex.com](https://raas.perciplex.com) to access _reality_. Check out the docs [here](https://perciplex.github.io/raas/).
 
 ## Who are you?
 <table style="border:none;text-align:center;">
