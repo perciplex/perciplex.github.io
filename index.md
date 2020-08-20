@@ -29,12 +29,12 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Who are we?
-
+<p float="left">
 <img src="max_circle.png" alt="Max" width="120px" height="120px">
 <img src="declan_circle.png" alt="Declan" width="120px" height="120px">
 <img src="ben_circle.png" alt="Bax" width="120px" height="120px">
 <img src="phil_circle.png" alt="Pax" width="120px" height="120px">
-
+</p>
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
