@@ -5,3 +5,5 @@ description: ""
 logo: logo_2.png
 show_downloads: false
 google_analytics: UA-8862815-4
+github:
+is\_project\_page:false
