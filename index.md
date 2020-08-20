@@ -24,17 +24,17 @@ Head over to [raas.perciplex.com](https://raas.perciplex.com) to access _reality
 
 ## Who are you?
 <table style="border:none;text-align:center;">
- <tr>
-  <td><img src="max_circle.png" alt="Max" width="100px" height="100px"></td>
-  <td><img src="declan_circle.png" alt="Declan" width="100px" height="100px"></td>
-  <td><img src="ben_circle.png" alt="Bax" width="100px" height="100px"></td>
-  <td><img src="phil_circle.png" alt="Pax" width="100px" height="100px"></td>
+ <tr style="text-align:center;">
+  <td style="text-align:center;"><img src="max_circle.png" alt="Max" width="100px" height="100px"></td>
+  <td style="text-align:center;"><img src="declan_circle.png" alt="Declan" width="100px" height="100px"></td>
+  <td style="text-align:center;"><img src="ben_circle.png" alt="Bax" width="100px" height="100px"></td>
+  <td style="text-align:center;"><img src="phil_circle.png" alt="Pax" width="100px" height="100px"></td>
  </tr>
- <tr>
-  <td>Maximilian King</td>
-  <td>Declan Oller</td>
-  <td>Ben Wiener</td>
-  <td>Philip Zucker</td>
+ <tr style="text-align:center;">
+  <td style="text-align:center;">Maximilian King</td>
+  <td style="text-align:center;">Declan Oller</td>
+  <td style="text-align:center;">Ben Wiener</td>
+  <td style="text-align:center;">Philip Zucker</td>
  </tr>
 </table>
 
