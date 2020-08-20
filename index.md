@@ -21,12 +21,12 @@ env.close()
 ```
 
 ### Who are you?
-<table>
+<table style="border:none;>
  <tr>
-  <td><img src="max_circle.png" alt="Max" width="120px" height="120px"></td>
-  <td><img src="declan_circle.png" alt="Declan" width="120px" height="120px"></td>
-  <td><img src="ben_circle.png" alt="Bax" width="120px" height="120px"></td>
-  <td><img src="phil_circle.png" alt="Pax" width="120px" height="120px"></td>
+  <td><img src="max_circle.png" alt="Max" width="100px" height="100px"></td>
+  <td><img src="declan_circle.png" alt="Declan" width="100px" height="100px"></td>
+  <td><img src="ben_circle.png" alt="Bax" width="100px" height="100px"></td>
+  <td><img src="phil_circle.png" alt="Pax" width="100px" height="100px"></td>
  </tr>
  <tr>
   <td>Maximilian King</td>
