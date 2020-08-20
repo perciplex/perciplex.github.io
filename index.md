@@ -23,7 +23,7 @@ env.close()
 Head over to [raas.perciplex.com](https://raas.perciplex.com) to access _reality_. Check out the docs at [here](https://perciplex.github.io/raas/).
 
 ## Who are you?
-<table style="border:none;">
+<table style="border:none;align:center;">
  <tr>
   <td><img src="max_circle.png" alt="Max" width="100px" height="100px"></td>
   <td><img src="declan_circle.png" alt="Declan" width="100px" height="100px"></td>
