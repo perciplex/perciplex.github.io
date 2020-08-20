@@ -1,40 +1,32 @@
-## Welcome to GitHub Pages
+## What is Perciplex?
 
-You can use the [editor on GitHub](https://github.com/perciplex/perciplex.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We're a group of technical consultants and makers of [Reality as a Service](https://raas.perciplex.com). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is Reality as a Service?
 
-### Markdown
+Reality as a Service or RaaS is a platform we built for trying code written for OpenAI Gym envoirnments on real robots. We built a fleet of pendulum robots that anyone can run your controller on.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
+import gym
+import gym_raas
 
-```markdown
-Syntax highlighted code block
+env = gym.make('raaspendulum-v0')
+env.reset()
 
-# Header 1
-## Header 2
-### Header 3
+for _ in range(1000):
+ env.render()
+ env.step(your_controller.get_action()) # take a random action
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+env.close()
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Who are we?
+### Who are you?
 <p float="left">
 <img src="max_circle.png" alt="Max" width="120px" height="120px">
 <img src="declan_circle.png" alt="Declan" width="120px" height="120px">
 <img src="ben_circle.png" alt="Bax" width="120px" height="120px">
 <img src="phil_circle.png" alt="Pax" width="120px" height="120px">
 </p>
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Support or Contact
+Send us an email at [team@perciplex.com](mailto:team@perciplex.com)
