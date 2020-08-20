@@ -4,19 +4,19 @@ We're a group of technical consultants and makers of [Reality as a Service](http
 
 ## What is Reality as a Service?
 
-Reality as a Service or RaaS is a platform we built for testing OpenAI Gym controllers on real robots. We built a fleet of pendulum robots that you can run your controller on for free. 
+**Reality as a Service** or **RaaS** is a platform we built for testing OpenAI Gym controllers on real robots. We built a fleet of pendulum robots that you can run your controller on for free. 
 
 If you already have a `Pendulum-v0` controller, it's this easy to try RaaS:
 ```python
 import gym
 import gym_raas
 
-env = gym.make('raaspendulum-v0')
+env = gym.make('RaasPendulum-v0')
 env.reset()
 
 for _ in range(1000):
  env.render()
- env.step(your_controller.get_action()) # take a random action
+ env.step(<<YOUR CONTROLLER HERE>>) # take a random action
 
 env.close()
 ```
