@@ -23,10 +23,10 @@ Head over to [raas.perciplex.com](https://raas.perciplex.com) to access _reality
 ## Who are you?
 <table style="border:none;text-align:center;">
  <tr style="text-align:center;">
-  <td style="text-align:center;"><img src="max_circle.png" alt="Max" width="100px"></td>
-  <td style="text-align:center;"><img src="declan_circle.png" alt="Declan" width="100px"></td>
-  <td style="text-align:center;"><img src="ben_circle.png" alt="Bax" width="100px"></td>
-  <td style="text-align:center;"><img src="phil_circle.png" alt="Pax" width="100px"></td>
+  <td style="text-align:center;"><img src="max_circle_small.png" alt="Max" width="100px"></td>
+  <td style="text-align:center;"><img src="declan_circle_small.png" alt="Declan" width="100px"></td>
+  <td style="text-align:center;"><img src="ben_circle_small.png" alt="Ben" width="100px"></td>
+  <td style="text-align:center;"><img src="phil_circle_small.png" alt="Phil" width="100px"></td>
  </tr>
  <tr style="text-align:center;">
   <td style="text-align:center;">Maximilian King</td>
